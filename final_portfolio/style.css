@@ -4,7 +4,7 @@
 
 .bgimage {
   height:100vh;
-  background: url('images/heroImage.jpg');
+  background: url('https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg?w=2000');
   background-size:cover;
   position:relative;
 }
@@ -26,8 +26,8 @@
 
 
 #about, #services, #portfolio, #contact {
-  margin-top: 4rem;
-  padding-top: 4rem;
+  margin-top: 2rem;
+  padding-top: 2rem;
 } 
 #contact {
   padding-bottom: 4rem;
